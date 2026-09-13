@@ -111,7 +111,7 @@ It includes:
 
 ### Dashboard Preview
 
-![E-commerce Dashboard](Screenshots/dashboard.png)
+![E-commerce Dashboard](Screenshot%202026-09-13%20150008.png)
 
 ---
 
