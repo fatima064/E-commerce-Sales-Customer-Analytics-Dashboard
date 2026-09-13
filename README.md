@@ -23,9 +23,9 @@ The main goal of this project was to turn raw sales data into useful business in
 
 ## 🛠️ Tools & Technologies
 
-- **MySQL** – Data storage, validation and analysis
-- **Microsoft Excel** – Data analysis and dashboard creation
-- **GitHub** – Project documentation and version control
+- **MySQL** - Data storage, validation and analysis
+- **Microsoft Excel** - Data analysis and dashboard creation
+- **GitHub** - Project documentation and version control
 
 ---
 
@@ -128,20 +128,4 @@ Some of the insights identified from the analysis include:
 
 ---
 
-## 📁 Project Structure
 
-```text
-E-commerce-Sales-Customer-Analytics-Dashboard/
-│
-├── Dataset/
-│   └── ecommerce_sales_customer_analytics.csv
-│
-├── SQL/
-│   └── ecommerce_analysis.sql
-│
-├── Screenshots/
-│   └── dashboard.png
-│
-├── ecommerce_sales_dashboard.xlsx
-│
-└── README.md
